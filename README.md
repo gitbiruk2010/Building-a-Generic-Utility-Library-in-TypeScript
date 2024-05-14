@@ -2,7 +2,7 @@
 
 This project provides a set of generic utility functions implemented in TypeScript. It's designed to offer reusable utility functions that can be helpful in various TypeScript and JavaScript projects.
 ## Screenshot:
-![image](https://github.com/gitbiruk2010/Building-a-Generic-Utility-Library-in-TypeScript/assets/103274295/a7178298-2435-41dd-a539-bf350a182860)
+![image](https://github.com/gitbiruk2010/Building-a-Generic-Utility-Library-in-TypeScript/assets/103274295/0eaa06fe-ec11-48e1-a73c-2e1eb3e6dd7c)
 
 ## Features
 
