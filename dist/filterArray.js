@@ -20,4 +20,3 @@ exports.filterArray = filterArray;
 // Test case to filter fruits based on length >= 6
 const fruits = ["apple", "banana", "cherry", "date", "elderberry"];
 const filteredFruits = filterArray(fruits, (word) => word.length >= 6);
-console.log(filteredFruits); // Expected Output: ["banana", "cherry", "elderberry"]

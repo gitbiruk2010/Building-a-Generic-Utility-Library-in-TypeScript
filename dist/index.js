@@ -9,7 +9,7 @@ const reverseArray_1 = __importDefault(require("./reverseArray"));
 const mapObject_1 = __importDefault(require("./mapObject"));
 const filterArray_1 = require("./filterArray");
 // Test cases for identity function
-console.log((0, identity_1.default)(1)); // Output: 1
+// console.log(identity<number>(1)); // Output: 1
 console.log((0, identity_1.default)("Building a Generic Utility Library in TypeScript")); // Output: "Building a Generic Utility Library in TypeScript"
 // Test cases for reverseArray function
 console.log((0, reverseArray_1.default)([1, 2, 3, 4, 5])); // Output: [5, 4, 3, 2, 1]

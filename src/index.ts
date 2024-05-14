@@ -5,7 +5,7 @@ import mapObject from "./mapObject";
 import {filterArray} from "./filterArray";
 
 // Test cases for identity function
-console.log(identity<number>(1)); // Output: 1
+// console.log(identity<number>(1)); // Output: 1
 console.log(identity<string>("Building a Generic Utility Library in TypeScript")); // Output: "Building a Generic Utility Library in TypeScript"
 
 // Test cases for reverseArray function
